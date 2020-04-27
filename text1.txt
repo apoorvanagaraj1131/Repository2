@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 90ED-1CE1
+
+ Directory of D:\Apoorva\My Project 2
+
+27-04-2020  15:08    <DIR>          .
+27-04-2020  15:08    <DIR>          ..
+27-04-2020  15:08                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  183,151,935,488 bytes free
